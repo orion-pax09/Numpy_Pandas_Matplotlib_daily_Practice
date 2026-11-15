@@ -1,0 +1,11 @@
+book_id,title,current_stock
+B101,Python Crash Course,8
+B102,Clean Code,2
+B103,Hands-On Machine Learning,1
+B104,DSA in C++,5
+B105,Database System Concepts,0
+B106,Introduction to Statistics,6
+B107,Deep Learning,2
+B108,Operating Systems,4
+B109,Linear Algebra,3
+B110,Computer Networks,7
