@@ -1,4 +1,4 @@
-# SpendSense — Expense Data Analysis
+# 💵 SpendSense — Expense Data Analysis
 
 SpendSense is a beginner-friendly Python data analysis project that explores personal expense data using **Pandas, NumPy, and Matplotlib**.
 
