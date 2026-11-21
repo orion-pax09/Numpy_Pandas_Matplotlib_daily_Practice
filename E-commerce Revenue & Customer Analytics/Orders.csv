@@ -1,0 +1,13 @@
+order_id,customer_id,category,quantity,price
+101,C01,Electronics,2,15000
+102,C02,Clothing,3,2500
+103,C01,Electronics,1,12000
+104,C03,Grocery,5,800
+105,C04,Clothing,2,3000
+106,C02,Grocery,4,600
+107,C05,Electronics,1,22000
+108,C03,Clothing,2,2000
+109,C04,Grocery,3,1000
+110,C05,Clothing,4,1500
+111,C01,Grocery,2,900
+112,C02,Electronics,1,18000
