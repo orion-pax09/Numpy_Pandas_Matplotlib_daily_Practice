@@ -14,6 +14,16 @@ A personal expense analysis project that explores spending patterns and provides
 
 **Tools:** Python, NumPy, Pandas, Matplotlib
 
+### 3. E-commerce Revenue & Customer Analytics
+Analyzes e-commerce sales data to understand customer purchasing behavior, category-wise revenue, and customer spending patterns. Uses grouping, aggregation, pivot tables, and data visualization to extract business insights.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib , Jupyter Notebook
+
+### 4. Library Reorder Risk Analyzer
+Analyzes library inventory data to identify books that may require restocking and explore inventory levels, reorder risks, and stock management insights.
+
+**Tools:** Python , Pandas , NumPy, Matplotlib , Jupyter Notebook
+
 ## Learning Goals
 
 - NumPy arrays and numerical operations
