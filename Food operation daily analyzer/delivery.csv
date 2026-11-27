@@ -1,0 +1,14 @@
+order_id,distance_km,weather,traffic,prep_time_min,delivery_time_min,rating
+O001,2.0,Clear,Low,10,22,5
+O002,5.5,Rain,High,15,48,3
+O003,3.0,Clear,Medium,12,30,4
+O004,8.0,Rain,High,20,65,2
+O005,1.5,Clear,Low,8,18,5
+O006,6.0,Cloudy,Medium,14,42,4
+O007,4.0,Clear,High,10,35,4
+O008,10.0,Rain,High,22,82,1
+O009,2.5,Cloudy,Low,9,25,5
+O010,7.0,Clear,Medium,16,,3
+O011,3.5,Rain,Medium,13,38,
+O012,5.0,Cloudy,High,15,50,3
+O004,8.0,Rain,High,20,65,2

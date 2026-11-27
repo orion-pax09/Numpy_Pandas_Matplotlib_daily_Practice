@@ -1,0 +1,13 @@
+order_id,order_time,delivered_time,city,restaurant_type,order_value,status,rating
+O1001,2026-10-05 12:05,2026-10-05 12:32,Islamabad,Pizza,1450,Completed,5
+O1002,2026-10-05 12:18,2026-10-05 12:58,Islamabad,Burger,850,Completed,4
+O1003,2026-10-05 13:02,2026-10-05 13:29,Rawalpindi,Pizza,1200,Completed,5
+O1004,2026-10-05 18:10,2026-10-05 18:55,Islamabad,BBQ,2100,Completed,3
+O1005,2026-10-05 19:05,2026-10-05 19:42,Islamabad,Burger,950,Completed,4
+O1006,2026-10-05 20:15,,Rawalpindi,Pizza,1600,Cancelled,
+O1007,2026-10-06 11:45,2026-10-06 12:15,Rawalpindi,Burger,700,Completed,4
+O1008,2026-10-06 13:20,2026-10-06 14:05,Islamabad,BBQ,1800,Completed,3
+O1009,2026-10-06 17:55,2026-10-06 18:21,Islamabad,Pizza,1300,Completed,5
+O1010,2026-10-06 19:30,,Rawalpindi,BBQ,2200,Cancelled,
+O1011,2026-10-07 12:30,2026-10-07 12:59,Islamabad,Burger,900,Completed,4
+O1012,2026-10-07 18:40,2026-10-07 19:24,Rawalpindi,Pizza,1500,Completed,5
